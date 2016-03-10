@@ -18,7 +18,13 @@ jQuery(document).ready(function($) {
         }, 1000);
     });
 
-
+    if($('.loggedin').length>0){
+      $('#nav-menu-item-588').hide();
+      $('#nav-menu-item-593').show();
+    }else{
+      $('#nav-menu-item-588').show();
+      $('#nav-menu-item-593').hide();
+    }
 
     function randomIntFromInterval(min,max){
         return Math.floor(Math.random()*(max-min+1)+min);

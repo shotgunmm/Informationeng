@@ -3754,3 +3754,15 @@ Tags: blue, gray, green, orange, pink, purple, red, white, yellow, light, one-co
 	ol.package li {
 		padding-left: 5px;
 	}
+
+.pure-form .feup-pure-control-group {
+  float: left;
+  width: 100%;
+}
+.pure-form .feup-pure-control-group .ewd-feup-field-label.ewd-feup-login-label {
+  float: left;
+}
+.pure-form .ewd-feup-text-input {
+  float: left;
+  width: 50%;
+}

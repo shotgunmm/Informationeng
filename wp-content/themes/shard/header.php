@@ -43,4 +43,8 @@ $header_classes = implode(' ', $header_classes);
 	?>
 </div>
 
+<?php  echo do_shortcode('[restricted no_message="Yes"]<input type="hidden" class="loggedin"/>[/restricted]');
+//echo "<input type='hidden' class='loggedin'/>";
+ //echo do_shortcode('[/restricted]'); ?>
+
 
