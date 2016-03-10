@@ -1,0 +1,104 @@
+Version History
+
+v.2.1.0
++ New - Option for no columns margin
++ New - Option to equalize 5 columns
+
+
+v.2.0.0
++ New - Theme can override plugin's shortcodes by copy of shortocde file in theme's dnd folder
++ Changed - Redux Options framework replaced with WordPress Settings API
++ Fixed - Date on post excerpt not working after translation
++ Changed - all shortcode names in lower case
++ Fixed - it adds empty html section when changed from Visual tab
++ Fixed - service box adds anchor when no link
++ Chenged - Tipsy balloon tooltip css moved in main css
++ New - option to change Tipsy opacity
++ New - option to enable additional font icons set (Font Awesome and WebHostingHub Glyphs)
++ New - Bottom Add Section button
++ New - Team Member - if modal window isn't enabled content will be placed under member position
++ New - Team Member - option to place social link under member position
++ New - Team Member - added option for googleplus, youtube, pinterest, github, feed, behance, blogger_blog, delicious, designcontest, deviantart, digg, dribbble, dropbox, flickr, forrst, instagram, lastfm, myspace, picasa, skype, stumbleupon, vimeo and zerply profile links
+
+v.1.2.5
++ New - Added class on sections with heading
++ New - WP 3.9 fully supported
+
+v.1.2.4
++ Fixed - Section background size on iOS
++ Fixed - Attributes don't load on edit
+
+v.1.2.3
++ Changed - GET ajax call for edit modal window replaced with POST
++ Changed - increased width of modal window
++ Fixed - preserve new lines from non Drag & Drop content
++ Fixed - saving of widgets in custom sidebars
++ Fixed - correct default list item icon
+
+v1.2.2
++ New - Button for pricebox
++ New - Button colors - gray, cyan, aquamarine
++ New - Color picker for progress bar
++ New - Alternate tables style
++ New - Contact form 7 support
++ Changed - Post shortcode rewritten for better output
++ New - Added option to show shortcode content in excerpt
++ New - class option for Text/HTML shortcode
++ Changed - Tabs width brake point
+
+v1.2.1
++ Fixed - Displaying code for section background image if no image selected
++ Fixed - Inserting Team Member modal after body
++ New - Revolution Slider support
+
+v1.2.0
++ New - Non-member only content shortcode
++ New - Section video background option
++ New - Tab shortcode - added options for Fade, Slide and no effect 
++ New - Titles on admin side on sections and edit modal windows
++ New - Content excerpt showed on D&amp;D element
++ New - WYSIWYG editor for shortcode content
++ New - Redux Options Framework implemented
++ New - Option to disable D&amp;D tab on pages, posts or any custom post type by name
++ New - Saving Layouts/Page content templates for easy reuse
++ New - Option for unlimited sidebars
++ New - Widget support by Sidebar shortcode
++ New - HTML5 video shortcode support
++ New - Knob shortcode
++ New - More social networks in Follow us shortcode
++ New - Post excerpts shortcode
++ New - Options for button style on Callout box
++ Changed - If exist dnd-shortcodes.css in theme's css folder it's enqueued instead of plugin's CSS file
++ Changed - Restyled Tabs and Accordions
++ Changed - Several optimizations in JS and CSS code
++ Fixed - Content change if D&amp;D tab open and returned on Text or Visual without change
++ Fixed - Wrong default color in edit modal window
++ Fixed - Skill bar classes not always properly added 
++ Fixed - Error of double defined functions
++ Fixed - Scroll not working in edit modal window
+
+v1.1.0
++ New - Option for section title
++ New - Option for section intro and outro text
++ New - Clone section option
++ New - Image shortcode, with entry animation
++ New - Buttons shortcode
++ New - Callout box shortcode
++ New - Added class attribute on several shortcodes
++ New - Fullwidth section option, allowing section content to expand 100% of width
++ New - Team Member now has attractive modal window option
++ Changed - Google Maps shortcode embed now replaced with Maps API, a lot of new options
++ Fixed - Fixed problems with some characters in shortcode attributes like &amp; and &quot; 
++ Fixed - Prevent scroll to top on insert or save shortcode
++ Fixed - Stats shortcode was showing icon even if not selected
++ Fixed - Clear floating on Divider shortcode
++ Fixed - Initialization of color attribute on shortcode's child 
+
+v1.0.3
++ New - Text / HTML shortcode in Drag and Drop tab
++ Fixed - disappearing new lines and multiple spaces in code and pre blocks
++ Fixed - HTML tags inside shortcodes converted to shortcodes
++ New - if no social links in Team Member shortcode, icon is not shown
++ Fixed - Stats Counter wrong countig on big numbers
+
+

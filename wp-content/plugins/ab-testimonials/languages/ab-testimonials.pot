@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AB Testimonials v1.0.0\n"
+"POT-Creation-Date: 2013-09-25 10:03+0100\n"
+"PO-Revision-Date: 2013-09-25 10:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: ABdev <support@ab-themes.com>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ab-testimonials.php:21
+msgid "Testimonials"
+msgstr ""
+
+#: ../ab-testimonials.php:23 ../ab-testimonials.php:24
+msgid "New testimonial"
+msgstr ""
+
+#: ../ab-testimonials.php:25
+msgid "Edit testimonial"
+msgstr ""
+
+#: ../ab-testimonials.php:26
+msgid "View testimonial"
+msgstr ""
+
+#: ../ab-testimonials.php:28 ../ab-testimonials.php:68
+msgid "Testimonial"
+msgstr ""
+
+#: ../ab-testimonials.php:41
+msgid "Categories"
+msgstr ""
+
+#: ../ab-testimonials.php:41 ../ab-testimonials.php:69
+msgid "Category"
+msgstr ""
+
+#: ../ab-testimonials.php:67
+msgid "Name"
+msgstr ""
+
+#: ../ab-testimonials.php:70
+msgid "Date"
+msgstr ""
+
+#: ../ab-testimonials.php:96
+msgid "Restore"
+msgstr ""
+
+#: ../ab-testimonials.php:98
+msgid "Edit"
+msgstr ""
+
+#: ../ab-testimonials.php:98
+msgid "Trash"
+msgstr ""
+
+#: ../ab-testimonials.php:132
+msgid "Client Name:"
+msgstr ""
+
+#: ../ab-testimonials.php:136
+msgid "Client URL:"
+msgstr ""
+
+#: ../ab-testimonials.php:144
+msgid "Company:"
+msgstr ""
+
+#: ../ab-testimonials.php:148
+msgid "Company URL:"
+msgstr ""
+
+#: ../ab-testimonials.php:156
+msgid "Testimonial Text:"
+msgstr ""
+
+#: ../ab-testimonials.php:197 ../ab-testimonials.php:200
+msgid "Testimonial updated."
+msgstr ""
+
+#: ../ab-testimonials.php:201
+#, php-format
+msgid "Testimonial restored to revision from %s"
+msgstr ""
+
+#: ../ab-testimonials.php:202
+msgid "Testimonial published."
+msgstr ""
+
+#: ../ab-testimonials.php:203
+msgid "Testimonial saved."
+msgstr ""
+
+#: ../ab-testimonials.php:204
+msgid "Testimonial submitted."
+msgstr ""
+
+#: ../ab-testimonials.php:205
+#, php-format
+msgid "Testimonial scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: ../ab-testimonials.php:205
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../ab-testimonials.php:206
+msgid "Testimonial draft updated."
+msgstr ""
+
+#: ../shortcode.php:77
+msgid "Your Name"
+msgstr ""
+
+#: ../shortcode.php:78
+msgid "Your Profile Link"
+msgstr ""
+
+#: ../shortcode.php:79
+msgid "Your Image"
+msgstr ""
+
+#: ../shortcode.php:80
+msgid "Your Company"
+msgstr ""
+
+#: ../shortcode.php:81
+msgid "Your Company Link"
+msgstr ""
+
+#: ../shortcode.php:82
+msgid "Your Testimonial"
+msgstr ""
+
+#: ../shortcode.php:83
+msgid "Submit Testimonial"
+msgstr ""
+
+#: ../shortcode.php:121
+msgid ""
+"You testimonial has been sent successfully! It will be reviewed by "
+"administrator before publishing. Thank you!"
+msgstr ""
+
+#: ../shortcode.php:122
+msgid "All fields except image are required!"
+msgstr ""
+
+#: ../shortcode.php:123
+msgid "Sending..."
+msgstr ""
